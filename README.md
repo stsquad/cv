@@ -47,5 +47,7 @@ I joined the company to design and build their [Network Management System (NMS)]
 This involved taking their existing element management software (EMS) and combining it with long-term monitoring and fault finding and analysis tools on a customised distribution of [Ubuntu][].
 The final product is sold as a pre-configured server which can be plugged straight into the operators NOC.
 
-
-
+[cbnl]: http://www.cbnl.com "Cambridge Broadband Networks Ltd Homepage"
+[VectaStar]: http://cbnl.com/overview "Overview of the VectaStar product"
+[Buildbot]: http://trac.buildbot.net/ "Buildbot, a continuous integration build system"
+[Jenkins]: http://jenkins-ci.org/ "Jenkins, a continuous build and test system" 
