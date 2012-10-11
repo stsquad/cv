@@ -10,7 +10,7 @@ My core competencies are in embedded system and kernel engineering.
 I am a pragmatic open source advocate and contribute to several open source projects in both professional and personal capacities. 
 I also share most of my [personal code][github] and maintain a few small open source projects.
 
-[github]: http://github.com/stsquad My github repositories
+   [github]: http://github.com/stsquad "My github repositories"
 
 ## Skills
 
@@ -40,8 +40,8 @@ While there I have:
 * Built a [Jenkins][] server which tracks the main development branches and runs unit and system-wide tests to give an indication of the health of the code.
 * Introduced processes to move the department from the unstructured start-up approach to a more mature organisation along Agile principles.
 
-*March 2008 to November 2011*
-*NMS Software Engineer*
+*March 2008 to November 2011*  
+**NMS Software Engineer**
 
 I joined the company to design and build their [Network Management System (NMS)][nms].
 This involved taking their existing element management software (EMS) and combining it with long-term monitoring and fault finding and analysis tools on a customised distribution of [Ubuntu][].
