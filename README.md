@@ -54,6 +54,8 @@ The final product is sold as a pre-configured server which can be plugged straig
 
 [cbnl]: http://www.cbnl.com "Cambridge Broadband Networks Ltd Homepage"
 [VectaStar]: http://cbnl.com/overview "Overview of the VectaStar product"
+[nms]: http://cbnl.com/components#VectaStar Network Management System (VNMS) "VNMS"
+[Ubuntu]: http://www.ubuntu.com "Ubuntu Distribution"
 [Buildbot]: http://trac.buildbot.net/ "Buildbot, a continuous integration build system"
 [Jenkins]: http://jenkins-ci.org/ "Jenkins, a continuous build and test system" 
 [onms]: http://opennms.org "OpenNMS, an open source network management system"
@@ -84,5 +86,51 @@ I worked as the principle Software Engineer of a venture capital backed startup 
 * Writing kernel drivers for the frame-buffer, IDE, and DMA hardware
 * Modifying existing drivers to fix portability issues with networking, SCSI and USB subsystems
 * Writing user space drivers for the custom DVR hardware including frame capture, display and compression
+
+### Marconi Communications, Liverpool
+*January 1999 to September 2002*  
+**Software Team Leader - Line Systems Development**
+
+While I was a team leader I led a variety of embedded line card projects.
+I was involved in a large number of process improvement activities as well as contributing my engineer experience.
+
+* Project planning and management for both green field and support work
+* Preparation of estimates and risk assessments for business review
+* Project maintenance, including prioritising and allocating work
+* Experience liaising with groups such as System Design, project management and customers.
+
+*December 1997 to January 1999*
+**Software Engineer - System X Line Card Development**  
+
+I started in the department supporting the existing Basic Rate ISDN line cards at the tail of the "Home Highway" development and went on to work on further line controller developments.
+
+* Received an Individual Contribution award for my work fixing several high profile field problems
+* Implemented several major modules of line card as well leading integration and boot-code/OS
+
+### Barcrest Ltd, Ashton-under-Lyne
+*November 1994 to December 1997*
+**Software Engineer - Video Game Development** 
+
+I worked in a department that produced Video Gaming software for various Casinos and other high stakes markets. My work included included analysis, simulation, implementation and testing of gaming software and ensuring it was compliant with the regulations.
+
+### The Technology Partnership, Cambridge
+*July 1994 to November 1994*
+**Software Engineer**  
+
+I was taken on a short-term contract to develop an experimental teaching aid for the deaf. During my time there I became involved in a variety of other projects including writing software to drive some prototype industrial hardware.
+
+## Education
+**University of Manchester - BSc. in Chemistry**  
+
+My final year project was a computer based analysis of Transfer RNA.
+
+## Contact and Personal Details
+
+Name: Alexis James Bennée
+Location: Cambridge, UK
+Email: alex@bennee.com
+Homepage: www.bennee.com/~alex/
+LinkedIn: http://www.linkedin.com/in/alexbennee
+
 
 
