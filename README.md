@@ -54,7 +54,7 @@ The final product is sold as a pre-configured server which can be plugged straig
 
 [cbnl]: http://www.cbnl.com "Cambridge Broadband Networks Ltd Homepage"
 [VectaStar]: http://cbnl.com/overview "Overview of the VectaStar product"
-[nms]: <http://cbnl.com/components#VectaStar Network Management System (VNMS)> "VNMS"
+[nms]: <http://cbnl.com/components#VectaStar Network Management System (VNMS)>
 [Ubuntu]: http://www.ubuntu.com "Ubuntu Distribution"
 [Buildbot]: http://trac.buildbot.net/ "Buildbot, a continuous integration build system"
 [Jenkins]: http://jenkins-ci.org/ "Jenkins, a continuous build and test system" 
