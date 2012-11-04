@@ -99,7 +99,7 @@ I was involved in a large number of process improvement activities as well as co
 * Project maintenance, including prioritising and allocating work
 * Experience liaising with groups such as System Design, project management and customers.
 
-*December 1997 to January 1999*
+*December 1997 to January 1999*  
 **Software Engineer - System X Line Card Development**  
 
 I started in the department supporting the existing Basic Rate ISDN line cards at the tail of the "Home Highway" development and went on to work on further line controller developments.
@@ -108,13 +108,13 @@ I started in the department supporting the existing Basic Rate ISDN line cards a
 * Implemented several major modules of line card as well leading integration and boot-code/OS
 
 ### Barcrest Ltd, Ashton-under-Lyne
-*November 1994 to December 1997*
+*November 1994 to December 1997*  
 **Software Engineer - Video Game Development** 
 
 I worked in a department that produced Video Gaming software for various Casinos and other high stakes markets. My work included included analysis, simulation, implementation and testing of gaming software and ensuring it was compliant with the regulations.
 
 ### The Technology Partnership, Cambridge
-*July 1994 to November 1994*
+*July 1994 to November 1994*  
 **Software Engineer**  
 
 I was taken on a short-term contract to develop an experimental teaching aid for the deaf. During my time there I became involved in a variety of other projects including writing software to drive some prototype industrial hardware.
@@ -126,11 +126,11 @@ My final year project was a computer based analysis of Transfer RNA.
 
 ## Contact and Personal Details
 
-Name: Alexis James Bennée
-Location: Cambridge, UK
-Email: alex@bennee.com
-Homepage: www.bennee.com/~alex/
-LinkedIn: http://www.linkedin.com/in/alexbennee
+* Name: Alexis James Bennée
+* Location: Cambridge, UK
+* Email: alex@bennee.com
+* Homepage: www.bennee.com/~alex/
+* LinkedIn: http://www.linkedin.com/in/alexbennee
 
 
 
