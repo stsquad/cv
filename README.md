@@ -2,8 +2,7 @@
 
 ## Summary
 
-I am a software engineer with 18 years experience in industry, mostly at Lead or Senior engineer level. 
-From time to time I've also held Line Management responsibility. 
+I am a software engineer with 18 years experience in industry, mostly at Lead or Senior engineer level, both with and without Line Management responsibilities.
 I'm well versed in the breadth of FLOSS technologies often associated with the GNU/Linux platform.
 I am comfortable working with both web and GUI applications development.
 My core competencies are in embedded system and kernel engineering.
@@ -30,7 +29,7 @@ I have an excellent understanding of a range of telecommunication and network pr
 **Head of Software/Principal Software Engineer**  
 
 Reporting to the Head of Engineering I'm responsible for a team of engineers maintaining all software elements (FPGA, Embedded and network management) of the [VectaStar][] product.
-My responsibilities include balancing the demands on the team of supporting existing customers, improving the quality of the code base and new features development.
+My responsibilities include balancing the demands on the team of supporting existing customers, improving the quality of the code base and developing new features.
 I act as a primary contact to the rest of the business for software related matters.
 I continue to contribute to the code base as a developer.
 I have responsibility for rolling release candidates and together with the Head of Quality sign-off the final releases for general availability.
@@ -61,11 +60,12 @@ The final product is sold as a pre-configured server which can be plugged straig
 
 
 ### Transitive
-*January 2005 to March 2008*
+*January 2005 to March 2008*  
 **Lead Software Engineer**
 
 I was the Product Lead for the development of a SPARC/Solaris to x86/Solaris dynamic binary translator. 
-I previously worked on the development of the SPARC/Solaris to x86_64/Linux translator. Some of the work I have been involved with includes:
+I previously worked on the development of the SPARC/Solaris to x86_64/Linux translator.
+Work included:
 
 * Technical planning and leadership for the products I was responsible for
 * Development of new features including leading the work on Precise Exceptions for our SPARC subject translators
@@ -74,7 +74,7 @@ I previously worked on the development of the SPARC/Solaris to x86_64/Linux tran
 * Mentoring activities including helping fellow engineers solve problems
 
 ### Braddahead, St Helens
-*September 2002 to January 2005*
+*September 2002 to January 2005*  
 **Senior Code Hacker**
 
 I worked as the principle Software Engineer of a venture capital backed startup developing next generation Digital Video Recorders for the security market. I was responsible for the software architecture as well as a large portion of the in house code base. The product is an embedded Linux system which took advantage of open source software to provide non-DVR functionality. Braddahead completed a successful exit in July 2004 when it was bought by Baxall Ltd.
