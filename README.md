@@ -42,7 +42,7 @@ I have responsibility for rolling release candidates and together with the Head 
 *March 2008 to November 2011*  
 **NMS Software Engineer**
 
-I joined the company to design and build their [Network Management System (NMS)][nms].
+I joined the company to design and build their [Network Management System][nms].
 This involved taking their existing element management software (EMS) and combining it with long-term monitoring and fault finding and analysis tools on a customised distribution of [Ubuntu][].
 The final product is sold as a pre-configured server which can be plugged straight into the operators NOC. Although my primary role was supporting the NMS platform I also got involved in kernel work and system bring-up for new products.
 
@@ -54,7 +54,7 @@ The final product is sold as a pre-configured server which can be plugged straig
 
 [cbnl]: http://www.cbnl.com "Cambridge Broadband Networks Ltd Homepage"
 [VectaStar]: http://cbnl.com/overview "Overview of the VectaStar product"
-[nms]: "http://cbnl.com/components#VectaStar Network Management System (VNMS)" "VNMS"
+[nms]: <http://cbnl.com/components#VectaStar Network Management System (VNMS)> "VNMS"
 [Ubuntu]: http://www.ubuntu.com "Ubuntu Distribution"
 [Buildbot]: http://trac.buildbot.net/ "Buildbot, a continuous integration build system"
 [Jenkins]: http://jenkins-ci.org/ "Jenkins, a continuous build and test system" 
