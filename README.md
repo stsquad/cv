@@ -28,7 +28,7 @@ I have an excellent understanding of a range of telecommunication and network pr
 ## Recent Employment
 
 ### [Linaro][linaro]
-* November 2013 to Present*  
+*November 2013 to Present*  
 **Senior Software Engineer**
 
 I support and develop new features for various flavours of virtualisation in the ARM
