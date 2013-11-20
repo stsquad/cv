@@ -18,15 +18,28 @@ I am well versed in hardware development and have taken a number of heterogeneou
 I have an excellent understanding of a range of telecommunication and network protocols.
 
 **Languages**: C/C++, Assembly, Perl, Python, Bash, HTML/CSS/JavaScript, Emacs Lisp  
-**Architectures**: 6809, 68k, PPC, x86/x86-64, SuperH, SPARC, ARM  
-**Platforms**: Embedded Linux often with FPGA or ASIC support hardware  
+**Architectures**: 6809, 68k, PPC, x86/x86-64, SuperH, SPARC, ARM
+**Platforms**: Embedded Linux often with FPGA or ASIC support hardware
 **Tools**: Emacs, GNU (gcc, gdb, make, autoconf etc.), (D)VCS (git, cvs, subversion), Cross-compilers, ICE’s, scopes and logic analysers, Continuous Integration (buildbot, Jenkins)  
 
 ## Recent Employment
 
-### [Cambridge Broadband][cbnl]  
-*November 2011 to Present*  
-**Head of Software/Principal Software Engineer**  
+### [Linaro][linaro]
+* November 2013 to Present*
+**Senior Software Engineer**
+
+I support and develop new features for various flavours of virtualisation in the ARM
+eco-system. This predominately involves working directly with the upstream [KVM][kvm]
+and [QEMU][qemu] FLOSS projects.
+
+
+[linaro]: http://www.linaro.org "Linaro Homepage"
+[kvm]: http://www.linux-kvm.org/page/Main_Page "Overview of KVM"
+[qemu]: http://wiki.qemu.org/Main_Page "QEMU Developer Pages"
+
+### [Cambridge Broadband][cbnl]
+*November 2011 to November 2013*
+**Head of Software/Principal Software Engineer**
 
 Reporting to the Head of Engineering I'm responsible for a team of engineers maintaining all software elements (FPGA, Embedded and network management) of the [VectaStar][] product.
 My responsibilities include balancing the demands on the team of supporting existing customers, improving the quality of the code base and developing new features.
@@ -39,7 +52,7 @@ I have responsibility for rolling release candidates and together with the Head 
 * Introduced [Buildbot][] to the organisation to defend the many build configurations of the unified code base.
 * Built a [Jenkins][] server which tracks the main development branches and runs unit and system-wide tests to give an indication of the health of the code.
 
-*March 2008 to November 2011*  
+*March 2008 to November 2011*
 **NMS Software Engineer**
 
 I joined the company to design and build their [Network Management System][nms].
