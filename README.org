@@ -1,29 +1,27 @@
 * Curriculum Vitae of Alex Bennée
 ** Summary
-I am a software engineer with 18 years experience in industry, mostly at
-Lead or Senior engineer level. I'm well versed in the breadth of FLOSS
-technologies often associated with the GNU/Linux platform. I am
-comfortable working with both web and GUI applications development. My
-core competencies are in embedded system and kernel engineering. I am a
-pragmatic open source advocate and contribute to several open source
-projects in both professional and personal capacities. I also share most
-of my [[http://github.com/stsquad][personal code]] and maintain a few
-small open source projects.
+I am a software engineer with 27 years experience in industry, mostly
+at Lead or Senior engineer level. I'm well versed in the breadth of
+FLOSS technologies often associated with the GNU/Linux platform. My
+core competencies are in embedded system and kernel engineering. I am
+a pragmatic open source advocate and contribute to several open source
+projects in both professional and personal capacities. I also share
+most of my [[http://github.com/stsquad][personal code]] and maintain a few small open source
+projects.
 
 ** Skills
 I have a strong track record in development and successful project
 delivery. I am well versed in hardware development and have taken a
 number of heterogeneous embedded platforms from conception to
-manufacturing. I have an excellent understanding of a range of
-telecommunication and network protocols.
+manufacturing. I have an excellent understanding containerisation,
+virtualisation and hypervisor technologies as well as networking
+technologies.
 
-*Languages*: C/C++, Assembly, Perl, Python, Bash, HTML/CSS/JavaScript,
-Emacs Lisp\\
-*Architectures*: 6809, 68k, PPC, x86/x86-64, SuperH, SPARC, ARM
-*Platforms*: Embedded Linux often with FPGA or ASIC support hardware
-*Tools*: Emacs, GNU (gcc, gdb, make, autoconf etc.), (D)VCS (git, cvs,
-subversion), Cross-compilers, ICE's, scopes and logic analysers,
-Continuous Integration (buildbot, Jenkins)
+*Languages*: C/C++, Assembly, Python, Shell, Emacs Lisp\\
+*Architectures*: ARM, x86/x86-64, PPC, SPARC, many more\\
+*Platforms*: Linux (in many forms), Hypervisors (KVM/Xen), BSDs, *not* Windows\\
+*Tools*: Emacs, GNU toolchain, GIT forges, ICE's, scopes and logic analysers,
+various CI systems, common FLOSS workflows\\
 
 ** Recent Employment
 *** [[http://www.linaro.org][Linaro]]
@@ -32,59 +30,40 @@ Continuous Integration (buildbot, Jenkins)
 
 I support and develop new features for various flavours of
 virtualisation in the ARM eco-system. This predominately involves
-working directly with the upstream
-[[http://www.linux-kvm.org/page/Main_Page][KVM]] and
-[[http://wiki.qemu.org/Main_Page][QEMU]] FLOSS projects.
+working directly with the upstream [[http://www.linux-kvm.org/page/Main_Page][KVM]] and [[http://wiki.qemu.org/Main_Page][QEMU]] FLOSS projects. My
+first project was helping with the initial ARMv8 support for QEMU.
+Since then I've worked on numerous aspects of the emulator including
+enabling [[https://wiki.qemu.org/Features/tcg-multithread][multi-threaded emulation]] and a [[https://wiki.qemu.org/Features/TCGPlugins][plugin system]] for dynamic
+analysis. I am an upstream maintainer for a number of the QEMU
+subsystem and have given numerous talks at Linaro and KVM forum
+conferences. I act as the internal Technical Lead for the project
+coordinating work between Linaro engineers and our members.
+
+I am also the Technical Lead for [[https://collaborate.linaro.org/display/STR/Stratos+Home][Project Stratos]] which is a open
+project to improve the range and deployments of VirtIO technology as
+an open abstracted interface for various workloads.
 
 *** [[http://www.cbnl.com][Cambridge Broadband]]
 /November 2011 to November 2013/\\
 *Head of Software/Principal Software Engineer*
 
-Reporting to the Head of Engineering I'm responsible for a team of
-engineers maintaining all software elements (FPGA, Embedded and network
-management) of the [[http://cbnl.com/overview][VectaStar]] product. My
-responsibilities include balancing the demands on the team of supporting
-existing customers, improving the quality of the code base and
-developing new features. I act as a primary contact to the rest of the
-business for software related matters. I continue to contribute to the
-code base as a developer. I have responsibility for rolling release
-candidates and together with the Head of Quality sign-off the final
-releases for general availability.
-
-- Successfully secured revenue from key customers by ensuring bugs
-  affecting them were speedily addressed.
-- Introduced processes to move the department from the unstructured
-  start-up approach to a more mature organisation along Agile
-  principles.
-- Introduced [[http://trac.buildbot.net/][Buildbot]] to the organisation
-  to defend the many build configurations of the unified code base.
-- Built a [[http://jenkins-ci.org/][Jenkins]] server which tracks the
-  main development branches and runs unit and system-wide tests to give
-  an indication of the health of the code.
+Reporting to the Head of Engineering I was responsible for a team of
+engineers maintaining all software elements (FPGA, Embedded and
+network management) of the [[http://cbnl.com/overview][VectaStar]] product. My responsibilities
+included balancing the demands on the team of supporting existing
+customers, improving the quality of the code base and developing new
+features. A major aspect of my work was modernising the development
+practices and reducing the reliance on knowledge locked up in the
+original developers heads.
 
 /March 2008 to November 2011/\\
 *NMS Software Engineer*
 
-I joined the company to design and build their
-[[http://cbnl.com/resources/vectastar-network-management-vnms][Network
-Management System]]. This involved taking their existing element
-management software (EMS) and combining it with long-term monitoring and
-fault finding and analysis tools on a customised distribution of
-[[http://www.ubuntu.com][Ubuntu]]. The final product is sold as a
-pre-configured server which can be plugged straight into the operators
-NOC. Although my primary role was supporting the NMS platform I also got
-involved in kernel work and system bring-up for new products.
-
-- Configure, adapt and customise [[http://opennms.org][OpenNMS]] for
-  monitoring point to multi-point wireless networks.
-- Modifying existing GTK based tools for configuration and setup of the
-  Wireless network environment to work on the NMS platform.
-- Combining existing tools with OpenNMS framework and linking together
-  with scripting and web interface.
-- Built a fresh SDK and RootFS for our next generation controller
-  platform
-- Ported our internal ATMoE driver from the old 2.4 based platform to
-  2.6
+I joined the company to design and build their [[http://cbnl.com/resources/vectastar-network-management-vnms][Network Management
+System]]. This involved taking their existing element management
+software (EMS) and combining it with long-term monitoring and fault
+finding and analysis tools on a customised distribution of [[http://www.ubuntu.com][Ubuntu]]. I
+also got involved in kernel work and system bring-up for new products.
 
 *** Transitive
 /January 2005 to March 2008/\\
@@ -92,18 +71,10 @@ involved in kernel work and system bring-up for new products.
 
 I was the Product Lead for the development of a SPARC/Solaris to
 x86/Solaris dynamic binary translator. I previously worked on the
-development of the SPARC/Solaris to x86\_64/Linux translator. Work
-included:
-
-- Technical planning and leadership for the products I was responsible
-  for
-- Development of new features including leading the work on Precise
-  Exceptions for our SPARC subject translators
-- Representing the company at various technical conferences, tracking
-  trends and delivering presentations
-- Code baseline duties including integration, testing and QA activities
-  while rolling project releases
-- Mentoring activities including helping fellow engineers solve problems
+development of the SPARC/Solaris to x86\_64/Linux translator. Aside
+from technical planning and leadership I also represented the company
+at various technical conferences and was involved in mentoring fellow
+engineers.
 
 *** Braddahead, St Helens
 /September 2002 to January 2005/\\
@@ -117,15 +88,6 @@ Linux system which took advantage of open source software to provide
 non-DVR functionality. Braddahead completed a successful exit in July
 2004 when it was bought by Baxall Ltd.
 
-- Software system design and architecture (in close co-operation with
-  the hardware team)
-- Writing boot code to bring up hardware and the Linux Kernel
-- Writing kernel drivers for the frame-buffer, IDE, and DMA hardware
-- Modifying existing drivers to fix portability issues with networking,
-  SCSI and USB subsystems
-- Writing user space drivers for the custom DVR hardware including frame
-  capture, display and compression
-
 *** Marconi Communications, Liverpool
 /January 1999 to September 2002/\\
 *Software Team Leader - Line Systems Development*
@@ -134,23 +96,12 @@ While I was a team leader I led a variety of embedded line card
 projects. I was involved in a large number of process improvement
 activities as well as contributing my engineer experience.
 
-- Project planning and management for both green field and support work
-- Preparation of estimates and risk assessments for business review
-- Project maintenance, including prioritising and allocating work
-- Experience liaising with groups such as System Design, project
-  management and customers.
-
 /December 1997 to January 1999/\\
 *Software Engineer - System X Line Card Development*
 
 I started in the department supporting the existing Basic Rate ISDN line
 cards at the tail of the "Home Highway" development and went on to work
 on further line controller developments.
-
-- Received an Individual Contribution award for my work fixing several
-  high profile field problems
-- Implemented several major modules of line card as well leading
-  integration and boot-code/OS
 
 *** Barcrest Ltd, Ashton-under-Lyne
 /November 1994 to December 1997/\\
