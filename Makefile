@@ -2,15 +2,13 @@
 # Simple Makefile to build laternate versions
 #
 
-SRC=README.md
+SRC=README.org
 
+.PHONY: all pdf html
 all: pdf html
 
 pdf: ${SRC}
-	pandoc -f markdown -i ${SRC} -o cv.pdf
+	pandoc -s -f org -i ${SRC} -o cv.pdf
 
 html: ${SRC}
-	pandoc -f markdown -i ${SRC} -t html5 -o cv.html
-
-
-
+	pandoc -s -f org -i ${SRC} -t html5 -o cv.html
