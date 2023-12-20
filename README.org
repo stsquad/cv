@@ -24,11 +24,15 @@ a number of conferences including a number of keynotes for the QEMU
 project. I write technical blog posts both for companies and
 communities to showcase developments and plans.
 
-*Languages*: C/C++, Assembly, Rust, Python, Shell, Emacs Lisp\\
-*Architectures*: ARM, x86/x86-64, PPC, SPARC, many more\\
-*Platforms*: Linux (in many forms), Hypervisors (KVM/Xen), BSDs, *not* Windows\\
+*Languages*: C/C++, Assembly, Rust, Python, Shell, Emacs Lisp
+
+*Architectures*: ARM, x86/x86-64, PPC, SPARC, many more
+
+*Platforms*: Linux (in many forms), Hypervisors (KVM/Xen), BSDs, *not*
+Windows
+
 *Tools*: Emacs, GNU toolchain, GIT forges, ICE's, scopes and logic analysers,
-various CI systems, common FLOSS workflows\\
+various CI systems, common FLOSS workflows
 
 ** Recent Employment
 *** [[http://www.linaro.org][Linaro]]
