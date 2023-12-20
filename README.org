@@ -93,7 +93,7 @@ also got involved in kernel work and system bring-up for new products.
 
 I was the Product Lead for the development of a SPARC/Solaris to
 x86/Solaris dynamic binary translator. I previously worked on the
-development of the SPARC/Solaris to x86\_64/Linux translator. Aside
+development of the SPARC/Solaris to x86_64/Linux translator. Aside
 from technical planning and leadership I also represented the company
 at various technical conferences and was involved in mentoring fellow
 engineers.
