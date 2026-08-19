@@ -33,7 +33,7 @@ communities to showcase developments and plans.
 Windows
 
 *Tools*: Emacs, GNU toolchain, Git forges, ICEs, oscilloscopes and
- logic analysers, various CI systems, common FLOSS workflows
+logic analysers, various CI systems, common FLOSS workflows
 
 ** Recent Employment
 *** [[http://www.linaro.org][Linaro]]
