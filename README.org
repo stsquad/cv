@@ -1,27 +1,28 @@
 * Curriculum Vitae of Alex Bennée
 ** Summary
-I am a software engineer with 30 years experience in industry, mostly
-at Lead or Senior engineer level. I'm well versed in the breadth of
-Free, Libre and Open Source (FLOSS) technologies often associated with
-the GNU/Linux platform. My core competencies are in embedded systems
-and kernel engineering. I am a pragmatic open source advocate and
-contribute to several open source projects in both professional and
-personal capacities. I also share most of my [[http://github.com/stsquad][personal code]] and
-maintain a few small open source projects.
+I am a software engineer with 30 years of experience in the industry,
+mostly at the Lead or Senior engineer level. I'm well-versed in the
+breadth of Free, Libre, and Open Source (FLOSS) technologies often
+associated with the GNU/Linux platform. My core competencies are in
+embedded systems, emulation, kernel space and hypervisors. I am a
+pragmatic open source advocate and contribute to several open-source
+projects in both professional and personal capacities. I also share
+most of my [[http://github.com/stsquad][personal code]] and maintain a few small open-source
+projects.
 
 ** Skills
 I have a strong track record in development and successful project
-delivery. I am well versed in hardware development and have taken a
+delivery. I am well-versed in hardware development and have taken a
 number of heterogeneous embedded platforms from conception to
-manufacturing. I have an excellent understanding containerisation,
-virtualisation and hypervisor technologies as well as networking
+manufacturing. I have an excellent understanding of containerisation,
+virtualisation, and hypervisor technologies, as well as networking
 technologies.
 
-I have a long history of mentorship and outreach work helping develop
-engineers within companies as well working with community schemes such
-as [[https://summerofcode.withgoogle.com/][Google Summer of Code]] and [[https://www.outreachy.org/][Outreachy]]. I have also presented work at
-a number of conferences including a number of keynotes for the QEMU
-project. I write technical blog posts both for companies and
+I have a long history of mentorship and outreach work, helping develop
+engineers within companies as well as working with community schemes
+such as [[https://summerofcode.withgoogle.com/][Google Summer of Code]] and [[https://www.outreachy.org/][Outreachy]]. I have also presented
+work at a number of conferences, including several keynotes for the
+QEMU project. I write technical blog posts both for companies and
 communities to showcase developments and plans.
 
 *Languages*: C/C++, Assembly, Rust, Python, Shell, Emacs Lisp
@@ -31,8 +32,8 @@ communities to showcase developments and plans.
 *Platforms*: Linux (in many forms), Hypervisors (KVM/Xen), BSDs, *not*
 Windows
 
-*Tools*: Emacs, GNU toolchain, GIT forges, ICE's, scopes and logic analysers,
-various CI systems, common FLOSS workflows
+*Tools*: Emacs, GNU toolchain, Git forges, ICEs, oscilloscopes and
+ logic analysers, various CI systems, common FLOSS workflows
 
 ** Recent Employment
 *** [[http://www.linaro.org][Linaro]]
@@ -41,51 +42,51 @@ various CI systems, common FLOSS workflows
 *Senior Tech Lead for Virtualisation and Emulation*
 
 I am responsible for the core [[https://linaro.atlassian.net/wiki/spaces/QEMU/overview][QEMU team]] responsible for driving the
-evolution of the Arm architecture support in the upstream project. As
-a maintainer continue to work with others across the community to keep
-QEMU as an active supported project for a wide variety of use cases. I
-work with external members and other internal groups to advise and
-problem solve to support up-streaming of useful features into the code
-base.
+evolution of Arm architecture support in the upstream project. As a
+maintainer, I work with others across the community to keep QEMU as an
+actively supported project for a wide variety of use cases. I work
+with external members and other internal groups to advise and
+problem-solve to support the up-streaming of useful features into the
+codebase.
 
-I am also the lead for [[https://linaro.atlassian.net/wiki/spaces/ORKO/overview][Project Orko]] which is a open project to improve
-the range and deployments of VirtIO technology as an open abstracted
-interface for various workloads across multiple hypervisors.
+I am also involved in projects to improve the range and deployment of
+VirtIO technology as an open abstracted interface for various
+workloads across multiple hypervisors.
 
 /November 2013 to December 2022/\\
 *Senior Software Engineer*
 
 I support and develop new features for various flavours of
-virtualisation in the ARM eco-system. This predominately involves
-working directly with the upstream [[http://www.linux-kvm.org/page/Main_Page][KVM]] and [[http://wiki.qemu.org/Main_Page][QEMU]] FLOSS projects. My
+virtualisation in the ARM ecosystem. This predominantly involves
+working directly with the upstream [[http://www.linux-kvm.org/page/Main/Page][KVM]] and [[https://www.qemu.org][QEMU]] FLOSS projects. My
 first project was helping with the initial ARMv8 support for QEMU.
-Since then I've worked on numerous aspects of the emulator including
+Since then, I've worked on numerous aspects of the emulator, including
 enabling [[https://wiki.qemu.org/Features/tcg-multithread][multi-threaded emulation]] and a [[https://wiki.qemu.org/Features/TCGPlugins][plugin system]] for dynamic
-analysis. I am an upstream maintainer for a number of the QEMU
-subsystem and have given numerous talks at Linaro and KVM forum
-conferences.
+analysis. I am an upstream maintainer for a number of QEMU subsystems
+and have given numerous talks at Linaro and KVM Forum conferences.
 
 *** [[http://www.cbnl.com][Cambridge Broadband]]
 /November 2011 to November 2013/\\
-*Head of Software/Principal Software Engineer*
+*Head of Software / Principal Software Engineer*
 
-Reporting to the Head of Engineering I was responsible for a team of
-engineers maintaining all software elements (FPGA, Embedded and
+Reporting to the Head of Engineering, I was responsible for a team of
+engineers maintaining all software elements (FPGA, embedded, and
 network management) of the VectaStar product. My responsibilities
 included balancing the demands on the team of supporting existing
-customers, improving the quality of the code base and developing new
-features. A major aspect of my work was modernising the development
+customers, improving the quality of the codebase, and developing new
+features. A major aspect of my work was modernising development
 practices and reducing the reliance on knowledge locked up in the
-original developers heads.
+original developers' heads.
 
 /March 2008 to November 2011/\\
 *NMS Software Engineer*
 
-I joined the company to design and build their [[http://cbnl.com/resources/vectastar-network-management-vnms][Network Management
-System]]. This involved taking their existing element management
-software (EMS) and combining it with long-term monitoring and fault
-finding and analysis tools on a customised distribution of [[http://www.ubuntu.com][Ubuntu]]. I
-also got involved in kernel work and system bring-up for new products.
+I joined the company to design and build their Network Management
+System. This involved taking their existing element management
+software (EMS) and combining it with long-term monitoring and
+fault-finding and analysis tools on a customised distribution of
+[[http://www.ubuntu.com][Ubuntu]]. I also got involved in kernel work and system bring-up for new
+products.
 
 *** Transitive
 /January 2005 to March 2008/\\
@@ -94,7 +95,7 @@ also got involved in kernel work and system bring-up for new products.
 I was the Product Lead for the development of a SPARC/Solaris to
 x86/Solaris dynamic binary translator. I previously worked on the
 development of the SPARC/Solaris to x86_64/Linux translator. Aside
-from technical planning and leadership I also represented the company
+from technical planning and leadership, I also represented the company
 at various technical conferences and was involved in mentoring fellow
 engineers.
 
@@ -102,49 +103,48 @@ engineers.
 /September 2002 to January 2005/\\
 *Senior Code Hacker*
 
-I worked as the principle Software Engineer of a venture capital
-backed startup developing next generation Digital Video Recorders for
-the security market. I was responsible for the software architecture
-as well as a large portion of the in house code base. Braddahead
-completed a successful exit in July 2004 when it was bought by Baxall
-Ltd.
+I worked as the principal software engineer of early stage VC backed
+startup developing next-generation digital video recorders for the
+security market. I was responsible for the software architecture as
+well as a large portion of the in-house codebase. Braddahead completed
+a successful exit in July 2004 when it was bought by Baxall Ltd.
 
 *** Marconi Communications, Liverpool
 /January 1999 to September 2002/\\
 *Software Team Leader - Line Systems Development*
 
-While I was a team leader I led a variety of embedded line card
-projects. I was involved in a large number of process improvement
-activities as well as contributing my engineer experience.
+As team leader I led a variety of embedded line card projects. I was
+involved in a large number of process improvement activities as well
+as contributing my engineering experience.
 
 /December 1997 to January 1999/\\
 *Software Engineer - System X Line Card Development*
 
-I started in the department supporting the existing Basic Rate ISDN line
-cards at the tail of the "Home Highway" development and went on to work
-on further line controller developments.
+I started in the department supporting the existing Basic Rate ISDN
+line cards at the tail end of the "Home Highway" development and went
+on to work on further line controller developments.
 
 *** Barcrest Ltd, Ashton-under-Lyne
 /November 1994 to December 1997/\\
 *Software Engineer - Video Game Development*
 
-I worked doing analysis, simulation, implementation and testing of
-Video Gaming software for various Casinos and other high stakes
+I worked on the analysis, simulation, implementation, and testing of
+video gaming software for various casinos and other high-stakes
 markets.
 
 *** The Technology Partnership, Cambridge
 /July 1994 to November 1994/\\
 *Software Engineer*
 
-I was taken on a short-term contract to develop an experimental teaching
-aid for the deaf. During my time there I became involved in a variety of
-other projects including writing software to drive some prototype
-industrial hardware.
+I was taken on a short-term contract to develop an experimental
+teaching aid for the deaf. During my time there, I became involved in
+a variety of other projects, including writing software to drive some
+prototype industrial hardware.
 
 ** Education
 *University of Manchester - BSc. in Chemistry*
 
-My final year project was a computer based analysis of Transfer RNA.
+My final year project was a computer-based analysis of Transfer RNA.
 
 ** Contact and Personal Details
 - Name: Alexis James Bennée
