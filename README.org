@@ -1,4 +1,4 @@
-* Curriculum Vitae of Alex Bennée
+#+TITLE: Curriculum Vitae of Alex Bennée
 ** Summary
 I am a software engineer with 30 years of experience in the industry,
 mostly at the Lead or Senior engineer level. I'm well-versed in the

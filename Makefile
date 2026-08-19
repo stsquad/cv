@@ -1,5 +1,5 @@
 #
-# Simple Makefile to build laternate versions
+# Simple Makefile to build alternate versions
 #
 
 SRC=README.org
